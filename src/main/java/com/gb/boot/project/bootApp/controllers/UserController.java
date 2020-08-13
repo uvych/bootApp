@@ -1,10 +1,8 @@
 package com.gb.boot.project.bootApp.controllers;
 
-import com.gb.boot.project.bootApp.model.Product;
 import com.gb.boot.project.bootApp.model.User;
 import com.gb.boot.project.bootApp.service.UserService;
 import lombok.AllArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
